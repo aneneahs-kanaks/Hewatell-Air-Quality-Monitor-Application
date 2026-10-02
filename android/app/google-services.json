@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063252568570",
+    "project_id": "air-quality-monitor-8f65f",
+    "storage_bucket": "air-quality-monitor-8f65f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063252568570:android:9468c084fd931a753d5c43",
+        "android_client_info": {
+          "package_name": "com.hewatell.air_quality_monitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2bsdNl8MaQd5YG_SW51kQAaaZOekJvRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
